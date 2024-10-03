@@ -21,21 +21,7 @@
       "static/chunks/fd9d1056-023bbdd6fd8a5298.js",
       "static/chunks/23-f15bd7a5b0f6de3e.js",
       "static/chunks/main-app-6926f18340fedb52.js",
-      "static/chunks/app/loading-bbe9f36dd6739e7d.js"
-    ],
-    "/register/page": [
-      "static/chunks/webpack-c40aa3b7cfecb3a3.js",
-      "static/chunks/fd9d1056-023bbdd6fd8a5298.js",
-      "static/chunks/23-f15bd7a5b0f6de3e.js",
-      "static/chunks/main-app-6926f18340fedb52.js",
-      "static/chunks/32-ea012c6bd38842c8.js",
-      "static/chunks/472-88626057ffc60ccd.js",
-      "static/chunks/776-5fe885d2799cab8d.js",
-      "static/chunks/534-4b4e46bdc6eedc5e.js",
-      "static/chunks/208-4e41cbe77a4142f6.js",
-      "static/chunks/288-3d56fe5d2b1eea10.js",
-      "static/chunks/118-6b950ecba693f696.js",
-      "static/chunks/app/register/page-ff1159c4bb1d6a65.js"
+      "static/chunks/app/loading-afc7126611aa64c5.js"
     ],
     "/page": [
       "static/chunks/webpack-c40aa3b7cfecb3a3.js",
@@ -51,7 +37,7 @@
       "static/chunks/118-6b950ecba693f696.js",
       "static/chunks/app/page-10e1cadccaafe7c7.js"
     ],
-    "/user/electoralCollege/page": [
+    "/register/page": [
       "static/chunks/webpack-c40aa3b7cfecb3a3.js",
       "static/chunks/fd9d1056-023bbdd6fd8a5298.js",
       "static/chunks/23-f15bd7a5b0f6de3e.js",
@@ -59,32 +45,11 @@
       "static/chunks/32-ea012c6bd38842c8.js",
       "static/chunks/472-88626057ffc60ccd.js",
       "static/chunks/776-5fe885d2799cab8d.js",
-      "static/chunks/138-1f89cc5e01d070df.js",
-      "static/chunks/app/user/electoralCollege/page-7862aa2ef3a9a4b3.js"
-    ],
-    "/user/electoralCollege/loading": [
-      "static/chunks/webpack-c40aa3b7cfecb3a3.js",
-      "static/chunks/fd9d1056-023bbdd6fd8a5298.js",
-      "static/chunks/23-f15bd7a5b0f6de3e.js",
-      "static/chunks/main-app-6926f18340fedb52.js",
-      "static/chunks/app/user/electoralCollege/loading-b4ff5e660dc280f2.js"
-    ],
-    "/user/layout": [
-      "static/chunks/webpack-c40aa3b7cfecb3a3.js",
-      "static/chunks/fd9d1056-023bbdd6fd8a5298.js",
-      "static/chunks/23-f15bd7a5b0f6de3e.js",
-      "static/chunks/main-app-6926f18340fedb52.js",
-      "static/chunks/32-ea012c6bd38842c8.js",
       "static/chunks/534-4b4e46bdc6eedc5e.js",
-      "static/chunks/424-d68d73151a6add39.js",
-      "static/chunks/app/user/layout-532e7574155baf48.js"
-    ],
-    "/user/loading": [
-      "static/chunks/webpack-c40aa3b7cfecb3a3.js",
-      "static/chunks/fd9d1056-023bbdd6fd8a5298.js",
-      "static/chunks/23-f15bd7a5b0f6de3e.js",
-      "static/chunks/main-app-6926f18340fedb52.js",
-      "static/chunks/app/user/loading-bef1907fbc144996.js"
+      "static/chunks/208-4e41cbe77a4142f6.js",
+      "static/chunks/288-3d56fe5d2b1eea10.js",
+      "static/chunks/118-6b950ecba693f696.js",
+      "static/chunks/app/register/page-ff1159c4bb1d6a65.js"
     ],
     "/user/advisoryCouncil/page": [
       "static/chunks/webpack-c40aa3b7cfecb3a3.js",
@@ -101,7 +66,24 @@
       "static/chunks/fd9d1056-023bbdd6fd8a5298.js",
       "static/chunks/23-f15bd7a5b0f6de3e.js",
       "static/chunks/main-app-6926f18340fedb52.js",
-      "static/chunks/app/user/advisoryCouncil/loading-3294538e1a79d227.js"
+      "static/chunks/app/user/advisoryCouncil/loading-45710965a613961b.js"
+    ],
+    "/user/layout": [
+      "static/chunks/webpack-c40aa3b7cfecb3a3.js",
+      "static/chunks/fd9d1056-023bbdd6fd8a5298.js",
+      "static/chunks/23-f15bd7a5b0f6de3e.js",
+      "static/chunks/main-app-6926f18340fedb52.js",
+      "static/chunks/32-ea012c6bd38842c8.js",
+      "static/chunks/534-4b4e46bdc6eedc5e.js",
+      "static/chunks/424-d68d73151a6add39.js",
+      "static/chunks/app/user/layout-532e7574155baf48.js"
+    ],
+    "/user/loading": [
+      "static/chunks/webpack-c40aa3b7cfecb3a3.js",
+      "static/chunks/fd9d1056-023bbdd6fd8a5298.js",
+      "static/chunks/23-f15bd7a5b0f6de3e.js",
+      "static/chunks/main-app-6926f18340fedb52.js",
+      "static/chunks/app/user/loading-6247b1ab5881abed.js"
     ],
     "/user/advisoryCouncil/vote/page": [
       "static/chunks/webpack-c40aa3b7cfecb3a3.js",
@@ -119,6 +101,24 @@
       "static/chunks/188-015fcc666112a12d.js",
       "static/chunks/306-678a8e09ffc941ce.js",
       "static/chunks/app/user/advisoryCouncil/vote/page-3bd05a2e240788c9.js"
+    ],
+    "/user/electoralCollege/page": [
+      "static/chunks/webpack-c40aa3b7cfecb3a3.js",
+      "static/chunks/fd9d1056-023bbdd6fd8a5298.js",
+      "static/chunks/23-f15bd7a5b0f6de3e.js",
+      "static/chunks/main-app-6926f18340fedb52.js",
+      "static/chunks/32-ea012c6bd38842c8.js",
+      "static/chunks/472-88626057ffc60ccd.js",
+      "static/chunks/776-5fe885d2799cab8d.js",
+      "static/chunks/138-1f89cc5e01d070df.js",
+      "static/chunks/app/user/electoralCollege/page-7862aa2ef3a9a4b3.js"
+    ],
+    "/user/electoralCollege/loading": [
+      "static/chunks/webpack-c40aa3b7cfecb3a3.js",
+      "static/chunks/fd9d1056-023bbdd6fd8a5298.js",
+      "static/chunks/23-f15bd7a5b0f6de3e.js",
+      "static/chunks/main-app-6926f18340fedb52.js",
+      "static/chunks/app/user/electoralCollege/loading-5dad8529c7ae534b.js"
     ],
     "/user/electoralCollege/vote/page": [
       "static/chunks/webpack-c40aa3b7cfecb3a3.js",
@@ -141,7 +141,7 @@
       "static/chunks/fd9d1056-023bbdd6fd8a5298.js",
       "static/chunks/23-f15bd7a5b0f6de3e.js",
       "static/chunks/main-app-6926f18340fedb52.js",
-      "static/chunks/app/user/electoralCollege/vote/loading-2cdf81562d41db3b.js"
+      "static/chunks/app/user/electoralCollege/vote/loading-08af7171432f1d77.js"
     ],
     "/user/page": [
       "static/chunks/webpack-c40aa3b7cfecb3a3.js",
@@ -167,7 +167,7 @@
       "static/chunks/fd9d1056-023bbdd6fd8a5298.js",
       "static/chunks/23-f15bd7a5b0f6de3e.js",
       "static/chunks/main-app-6926f18340fedb52.js",
-      "static/chunks/app/user/presidential/loading-37118f670b5858c8.js"
+      "static/chunks/app/user/presidential/loading-3acba5a5274e3e98.js"
     ],
     "/user/presidential/vote/page": [
       "static/chunks/webpack-c40aa3b7cfecb3a3.js",

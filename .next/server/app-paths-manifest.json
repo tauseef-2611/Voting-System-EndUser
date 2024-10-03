@@ -1,11 +1,11 @@
 {
   "/_not-found/page": "app/_not-found/page.js",
-  "/register/page": "app/register/page.js",
   "/page": "app/page.js",
+  "/register/page": "app/register/page.js",
   "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/user/electoralCollege/page": "app/user/electoralCollege/page.js",
   "/user/advisoryCouncil/page": "app/user/advisoryCouncil/page.js",
   "/user/advisoryCouncil/vote/page": "app/user/advisoryCouncil/vote/page.js",
+  "/user/electoralCollege/page": "app/user/electoralCollege/page.js",
   "/user/electoralCollege/vote/page": "app/user/electoralCollege/vote/page.js",
   "/user/page": "app/user/page.js",
   "/user/presidential/page": "app/user/presidential/page.js",
