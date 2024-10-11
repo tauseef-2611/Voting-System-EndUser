@@ -51,22 +51,15 @@
       "static/chunks/118-cd416e5e94186099.js",
       "static/chunks/app/register/page-c039c6d6843f511f.js"
     ],
-    "/user/advisoryCouncil/vote/page": [
+    "/user/advisoryCouncil/page": [
       "static/chunks/webpack-c40aa3b7cfecb3a3.js",
       "static/chunks/fd9d1056-023bbdd6fd8a5298.js",
       "static/chunks/23-f15bd7a5b0f6de3e.js",
       "static/chunks/main-app-6926f18340fedb52.js",
-      "static/chunks/0e5ce63c-c2fd7a4c83c79402.js",
       "static/chunks/32-ea012c6bd38842c8.js",
       "static/chunks/472-88626057ffc60ccd.js",
-      "static/chunks/776-5fe885d2799cab8d.js",
-      "static/chunks/534-4b4e46bdc6eedc5e.js",
-      "static/chunks/208-4e41cbe77a4142f6.js",
-      "static/chunks/424-d68d73151a6add39.js",
-      "static/chunks/82-1994fb1b5f588cd8.js",
-      "static/chunks/188-015fcc666112a12d.js",
-      "static/chunks/306-678a8e09ffc941ce.js",
-      "static/chunks/app/user/advisoryCouncil/vote/page-cd37728ca3347366.js"
+      "static/chunks/138-1f89cc5e01d070df.js",
+      "static/chunks/app/user/advisoryCouncil/page-33408161087c3776.js"
     ],
     "/user/advisoryCouncil/loading": [
       "static/chunks/webpack-c40aa3b7cfecb3a3.js",
@@ -110,15 +103,22 @@
       "static/chunks/main-app-6926f18340fedb52.js",
       "static/chunks/app/user/electoralCollege/loading-5dad8529c7ae534b.js"
     ],
-    "/user/advisoryCouncil/page": [
+    "/user/advisoryCouncil/vote/page": [
       "static/chunks/webpack-c40aa3b7cfecb3a3.js",
       "static/chunks/fd9d1056-023bbdd6fd8a5298.js",
       "static/chunks/23-f15bd7a5b0f6de3e.js",
       "static/chunks/main-app-6926f18340fedb52.js",
+      "static/chunks/0e5ce63c-c2fd7a4c83c79402.js",
       "static/chunks/32-ea012c6bd38842c8.js",
       "static/chunks/472-88626057ffc60ccd.js",
-      "static/chunks/138-1f89cc5e01d070df.js",
-      "static/chunks/app/user/advisoryCouncil/page-33408161087c3776.js"
+      "static/chunks/776-5fe885d2799cab8d.js",
+      "static/chunks/534-4b4e46bdc6eedc5e.js",
+      "static/chunks/208-4e41cbe77a4142f6.js",
+      "static/chunks/424-d68d73151a6add39.js",
+      "static/chunks/82-1994fb1b5f588cd8.js",
+      "static/chunks/188-015fcc666112a12d.js",
+      "static/chunks/306-678a8e09ffc941ce.js",
+      "static/chunks/app/user/advisoryCouncil/vote/page-5252c3660331ba51.js"
     ],
     "/user/electoralCollege/vote/page": [
       "static/chunks/webpack-c40aa3b7cfecb3a3.js",
@@ -134,7 +134,7 @@
       "static/chunks/424-d68d73151a6add39.js",
       "static/chunks/82-1994fb1b5f588cd8.js",
       "static/chunks/306-678a8e09ffc941ce.js",
-      "static/chunks/app/user/electoralCollege/vote/page-17df8e38471f93d8.js"
+      "static/chunks/app/user/electoralCollege/vote/page-4933b60e0d92a262.js"
     ],
     "/user/electoralCollege/vote/loading": [
       "static/chunks/webpack-c40aa3b7cfecb3a3.js",
@@ -142,15 +142,6 @@
       "static/chunks/23-f15bd7a5b0f6de3e.js",
       "static/chunks/main-app-6926f18340fedb52.js",
       "static/chunks/app/user/electoralCollege/vote/loading-08af7171432f1d77.js"
-    ],
-    "/user/page": [
-      "static/chunks/webpack-c40aa3b7cfecb3a3.js",
-      "static/chunks/fd9d1056-023bbdd6fd8a5298.js",
-      "static/chunks/23-f15bd7a5b0f6de3e.js",
-      "static/chunks/main-app-6926f18340fedb52.js",
-      "static/chunks/32-ea012c6bd38842c8.js",
-      "static/chunks/472-88626057ffc60ccd.js",
-      "static/chunks/app/user/page-4203412189a5a8c0.js"
     ],
     "/user/presidential/page": [
       "static/chunks/webpack-c40aa3b7cfecb3a3.js",
@@ -169,6 +160,15 @@
       "static/chunks/main-app-6926f18340fedb52.js",
       "static/chunks/app/user/presidential/loading-3acba5a5274e3e98.js"
     ],
+    "/user/page": [
+      "static/chunks/webpack-c40aa3b7cfecb3a3.js",
+      "static/chunks/fd9d1056-023bbdd6fd8a5298.js",
+      "static/chunks/23-f15bd7a5b0f6de3e.js",
+      "static/chunks/main-app-6926f18340fedb52.js",
+      "static/chunks/32-ea012c6bd38842c8.js",
+      "static/chunks/472-88626057ffc60ccd.js",
+      "static/chunks/app/user/page-4203412189a5a8c0.js"
+    ],
     "/user/presidential/vote/page": [
       "static/chunks/webpack-c40aa3b7cfecb3a3.js",
       "static/chunks/fd9d1056-023bbdd6fd8a5298.js",
@@ -184,7 +184,7 @@
       "static/chunks/82-1994fb1b5f588cd8.js",
       "static/chunks/188-015fcc666112a12d.js",
       "static/chunks/306-678a8e09ffc941ce.js",
-      "static/chunks/app/user/presidential/vote/page-019647c39dd8495e.js"
+      "static/chunks/app/user/presidential/vote/page-73183fc8eb6e6fad.js"
     ]
   }
 }
